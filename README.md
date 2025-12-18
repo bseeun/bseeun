@@ -6,7 +6,7 @@
   <h2> 🧑‍💻 About Me </h2>
   <p>
     안녕하세요! <b>배세은</b>입니다. <br>
-    AI에 관심을 가지고 공부하고 있습니다.
+    AI에 관심을 가지고 공부하고 있습니다. <br>
     끊임없이 배우고 성장하는 중입니다! 🚀
   </p>
 </div>
@@ -129,12 +129,12 @@
   <div style="display: flex; justify-content: center;">
     <div style="text-align: left; width: fit-content; max-width: 800px;">
       <p style="margin-bottom: 20px;">
-        <b>멀티모달 임베딩 정렬 기반 자연어 위성사진 유사 사례 검색</b> <br>
+        <b>멀티모달 임베딩 정렬 기반 자연어 위성사진 유사 사례 검색</b> -
         강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
         <span style="color: #666;">2025 한국컴퓨터종합학술대회 (KCC 2025)</span>
       </p>
       <p>
-        <b>위성사진 유사사례 검색을 위한 시계열 특성 반영 임베딩 모델 파인튜닝 기법</b> <br>
+        <b>위성사진 유사사례 검색을 위한 시계열 특성 반영 임베딩 모델 파인튜닝 기법</b> -
         강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
         <span style="color: #666;">2025 한국컴퓨터종합학술대회 (KCC 2025)</span>
       </p>
