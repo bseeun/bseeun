@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f480a3,100:d5df81&height=240&text=Hi%20there,%20I'm%20Seeun!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-</div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4d6f2,100:b6e6ec&height=240&text=Hi%20there,%20I'm%20Seeun!&animation=&fontColor=657595&fontSize=70" />
+    </div>
+    
 
 <div align="center">
   <h2> 🧑‍💻 About Me </h2>
