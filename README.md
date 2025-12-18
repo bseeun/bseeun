@@ -46,6 +46,11 @@
       <td>국민대학교 소프트웨어융합대학 인공지능 학회 AIM 멘토진</td>
     </tr>
     <tr>
+      <td>University of California, Irvine</td>
+      <td>2025.06 ~ 2025.08</td>
+      <td>KMU-UCI Summer Great 프로그램 참여</td>
+    </tr>
+    <tr>
       <td>GDG KMU</td>
       <td>2025.09 ~ 2025.12</td>
       <td>Google Developer Groups on Kookmin 멤버</td>
@@ -64,7 +69,7 @@
     </tr>
     <tr>
       <td>2023.03 ~ 2023.11</td>
-      <td>[KOSS - Enbrain AI 산학연계 프로젝트] 추천시스템 관련 짧은 데모 프로젝트 여러 개 수행 - 프론트엔드 및 데이터셋 구축 담당</td>
+      <td>[KOSS - Enbrain AI 산학연계프로젝트] 추천시스템 관련 짧은 데모 프로젝트 여러 개 수행 - 프론트엔드 및 데이터셋 구축 담당</td>
     </tr>
     <tr>
       <td>2024.09 ~ 2024.11</td>
@@ -72,11 +77,11 @@
     </tr>
     <tr>
       <td>2025.02 ~ 2025.06</td>
-      <td>[국민대학교 졸업프로젝트] 멀티모달 임베딩 정렬 및 시계열 특성을 활용한 자연어 기반 위성사진 유사 사례 검색 연구 - 아이디어 제안 및 실험 담당</td>
+      <td>[국민대학교 캡스톤프로젝트] 멀티모달 임베딩 정렬 및 시계열 특성을 활용한 자연어 기반 위성사진 유사 사례 검색 연구 - 아이디어 제안 및 실험 담당</td>
     </tr>
     <tr>
       <td>2025.06 ~ 2025.08</td>
-      <td>[KMU-UCT GREAT 프로그램] Diffusion Transformer의 연산 효율화를 위한 Residual Stream 활용 연구 - 아이디어 제안 및 실험 담당</td>
+      <td>[KMU-UCI GREAT 프로그램] Diffusion Transformer의 연산 효율화를 위한 Residual Stream 활용 연구 - 아이디어 제안 및 실험 담당</td>
     </tr>
     <tr>
       <td>2025.09 ~ 2025.11</td>
