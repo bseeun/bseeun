@@ -28,7 +28,7 @@
     <tr>
       <td>KOSS</td>
       <td>2022.09 ~ 2023.12</td>
-      <td>국민대학교 오픈소스 소프트웨어 학회 KOSS 부원</td>
+      <td>국민대학교 소프트웨어융합대학 오픈소스 소프트웨어 학회 KOSS 부원</td>
     </tr>
     <tr>
       <td>MILab</td>
@@ -43,7 +43,7 @@
     <tr>
       <td>AIM</td>
       <td>2024.09 ~ 2024.12</td>
-      <td>국민대학교 인공지능 학회 AIM 멘토진</td>
+      <td>국민대학교 소프트웨어융합대학 인공지능 학회 AIM 멘토진</td>
     </tr>
     <tr>
       <td>GDG KMU</td>
@@ -81,6 +81,37 @@
     <tr>
       <td>2025.09 ~ 2025.11</td>
       <td>[K-조선 해커톤] 선박 매뉴얼 특화 AI 챗봇 '마리노바 (MARINOVA)' - RAG 기반 문서 질의응답 시스템 아키텍처 설계 및 구현 담당</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2>
+  <table align="center">
+    <tr>
+      <th width="200">소속/기관</th>
+      <th width="200">부문</th>
+      <th width="250">수상</th>
+      <th width="150">기간</th>
+    </tr>
+    <tr>
+      <td>한국컴퓨터종합학술대회(KCC 2025)</td>
+      <td>학부생부문</td>
+      <td>우수상</td>
+      <td>2025.07</td>
+    </tr>
+    <tr>
+      <td>한국컴퓨터종합학술대회(KCC 2025)</td>
+      <td>학부생부문</td>
+      <td>장려상</td>
+      <td>2025.07</td>
+    </tr>
+    <tr>
+      <td>산업통상자원부</td>
+      <td>2025 K-조선 해커톤</td>
+      <td>아이디어상(대한조선학회장상)</td>
+      <td>2025.11</td>
     </tr>
   </table>
 </div>
