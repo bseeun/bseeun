@@ -77,13 +77,9 @@
 
   <h5><b>Library</b></h5>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
-  <img src="https://img.shields.io/badge/TensorRT-006600?style=for-the-badge&logo=Nvidia&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Gradio-F2CA30?style=for-the-badge&logo=Gradio&logoColor=white">
 
   <h5><b>Framework</b></h5>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
   <h5><b>Tools & Others</b></h5>
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
