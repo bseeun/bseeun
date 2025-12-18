@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>2025.06 ~ 2025.08</td>
-      <td>[KMU-UCI GREAT 프로그램] Diffusion Transformer의 연산 효율화를 위한 Residual Stream 활용 연구 - 아이디어 제안 및 실험 담당</td>
+      <td>[KMU-UCI GREAT 프로그램] Diffusion Transformer의 연산 효율화를 위한 Residual Stream 활용 연구 - 아이디어 제안 및 구현, 실험 담당</td>
     </tr>
     <tr>
       <td>2025.09 ~ 2025.11</td>
@@ -103,14 +103,14 @@
     </tr>
     <tr>
       <td>한국정보과학회</td>
-      <td>KCC2025 학부생논문경진대회</td>
-      <td>학부생부문 우수상</td>
+      <td>KCC 2025 학부생 논문경진대회</td>
+      <td>우수상</td>
       <td>2025.07</td>
     </tr>
     <tr>
       <td>한국정보과학회</td>
-      <td>KCC2025 학부생논문경진대회</td>
-      <td>학부생부문 장려상</td>
+      <td>KCC 2025 학부생 논문경진대회</td>
+      <td>장려상</td>
       <td>2025.07</td>
     </tr>
     <tr>
