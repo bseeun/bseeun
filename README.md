@@ -7,6 +7,7 @@
   <p>
     안녕하세요! <b>배세은</b>입니다. <br>
     AI에 관심을 가지고 공부하고 있습니다.
+    끊임없이 배우고 성장하는 중입니다!🚀
   </p>
 </div>
 
@@ -33,7 +34,7 @@
     <tr>
       <td>MILab</td>
       <td>2024.01 ~ 2025.06</td>
-      <td>국민대학교 인공지능 연구실 MILab 학부연구생</td>
+      <td>국민대학교 인공지능 연구실 Machine Intelligence Lab 학부연구생</td>
     </tr>
     <tr>
       <td>CONNECT</td>
@@ -69,7 +70,7 @@
     </tr>
     <tr>
       <td>2023.03 ~ 2023.11</td>
-      <td>[KOSS - Enbrain AI 산학연계프로젝트] 추천시스템 관련 짧은 데모 프로젝트 여러 개 수행 - 프론트엔드 및 데이터셋 구축 담당</td>
+      <td>[KOSS - Enbrain AI 산학연계프로젝트] 추천시스템 관련 데모 프로젝트 여러 개 수행 - 프론트엔드 및 데이터셋 구축 담당</td>
     </tr>
     <tr>
       <td>2024.09 ~ 2024.11</td>
@@ -122,6 +123,23 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Publications </h2>
+    <ul>
+      <li>
+        <b>멀티모달 임베딩 정렬 기반 자연어 위성사진 유사 사례 검색</b> <br>
+        강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
+        2025 한국컴퓨터종합학술대회 (KCC 2025)
+      </li>
+      <li>
+        <b>위성사진 유사사례 검색을 위한 시계열 특성 반영 임베딩 모델 파인튜닝 기법</b> <br>
+        강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
+        2025 한국컴퓨터종합학술대회 (KCC 2025)
+      </li>
+    </ul>
+  </div>
+</div>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
