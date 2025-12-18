@@ -5,8 +5,8 @@
 <div align="center">
   <h2> 🧑‍💻 About Me </h2>
   <p>
-    안녕하세요! 세상을 바꾸고 싶은 AI 개발자, <b>배세은</b>입니다. <br>
-    현재 AI 기술에 깊은 관심을 가지고 공부하고 있습니다.
+    안녕하세요! <b>배세은</b>입니다. <br>
+    AI 기술에 깊은 관심을 가지고 공부하고 있습니다.
   </p>
 </div>
 
@@ -45,6 +45,11 @@
       <td>2024.09 ~ 2024.12</td>
       <td>국민대학교 인공지능 학회 AIM 멘토진</td>
     </tr>
+    <tr>
+      <td>GDG KMU</td>
+      <td>2025.09 ~ 2025.12</td>
+      <td>Google Developer Groups on Kookmin 멤버</td>
+    </tr>
     </table>
 </div>
 
@@ -59,7 +64,23 @@
     </tr>
     <tr>
       <td>2023.03 ~ 2023.11</td>
-      <td><b>프로젝트 명</b> - 역할 및 상세 내용 설명</td>
+      <td><b>KOSS - Enbrain AI 산학연계 프로젝트</b>추천시스템 관련 짧은 데모 프로젝트 여러 개 수행 프론트엔드 및 데이터셋 구축 담당</td>
+    </tr>
+    <tr>
+      <td>2024.09 ~ 2024.11</td>
+      <td><b>국민대학교 2024-2 알파프로젝트</b>Negative Transfer 완화를 위한 Unlearning 연구 Object Detection Finetuning 담당</td>
+    </tr>
+    <tr>
+      <td>2025.02 ~ 2025.06</td>
+      <td><b>국민대학교 졸업프로젝트</b>멀티모달 임베딩 정렬 및 시계열 특성을 활용한 자연어 기반 위성사진 유사 사례 검색 연구 아이디어 제안 및 실험 담당</td>
+    </tr>
+    <tr>
+      <td>2025.06 ~ 2025.08</td>
+      <td><b>KMU-UCT GREAT 프로그램</b>Diffusion Transformer의 연산 효율화를 위한 Residual Stream 활용 연구 아이디어 제안 및 실험 담당</td>
+    </tr>
+    <tr>
+      <td>2025.09 ~ 2025.11</td>
+      <td><b>K-조선 해커톤</b>선박 매뉴얼 특화 AI 챗봇 '마리노바 (MARINOVA)' RAG 시스템 아키텍처 담당</td>
     </tr>
   </table>
 </div>
