@@ -126,20 +126,24 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Publications </h2>
+  
+  <div style="display: inline-block; text-align: left; min-width: 70%;">
     <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 15px;">
+      <li style="margin-bottom: 20px;">
         <b>멀티모달 임베딩 정렬 기반 자연어 위성사진 유사 사례 검색</b> <br>
         강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
-        <i>Korean Computer Congress 2025 (KCC 2025)</i>
+        <span style="color: #666;">2025 한국컴퓨터종합학술대회 (KCC 2025)</span>
       </li>
-      <li style="margin-bottom: 15px;">
+      <li style="margin-bottom: 20px;">
         <b>위성사진 유사사례 검색을 위한 시계열 특성 반영 임베딩 모델 파인튜닝 기법</b> <br>
         강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
-        <i>Korean Computer Congress 2025 (KCC 2025)</i>
+        <span style="color: #666;">2025 한국컴퓨터종합학술대회 (KCC 2025)</span>
       </li>
     </ul>
   </div>
 </div>
+
+<br/>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
