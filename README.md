@@ -126,45 +126,33 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Publications </h2>
-  
-  <div style="display: inline-block; text-align: left; min-width: 70%;">
-    <ul style="list-style: none; padding-left: 0;">
-      <li style="margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center;">
+    <div style="text-align: left; width: fit-content; max-width: 800px;">
+      <p style="margin-bottom: 20px;">
         <b>멀티모달 임베딩 정렬 기반 자연어 위성사진 유사 사례 검색</b> <br>
         강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
         <span style="color: #666;">2025 한국컴퓨터종합학술대회 (KCC 2025)</span>
-      </li>
-      <li style="margin-bottom: 20px;">
+      </p>
+      <p>
         <b>위성사진 유사사례 검색을 위한 시계열 특성 반영 임베딩 모델 파인튜닝 기법</b> <br>
         강하운, 김윤희, <b>배세은</b>, 이가현, 홍세원, 박하명 <br>
         <span style="color: #666;">2025 한국컴퓨터종합학술대회 (KCC 2025)</span>
-      </li>
-    </ul>
+      </p>
+    </div>
   </div>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Interests</h2>
   
-  <h5><b>Languages</b></h5>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-
-  <h5><b>Library</b></h5>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
-
-  <h5><b>Framework</b></h5>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
-
-  <h5><b>Tools & Others</b></h5>
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
 
 <br/>
